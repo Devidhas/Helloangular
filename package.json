@@ -1,13 +1,13 @@
 {
-  "name": "angular-fundamentals-seed",
+  "name": "angular-starter",
   "version": "0.1.0",
-  "description": "Ultimate Angular: Angular Fundamentals Seed",
+  "description": "Coding Sastra: Angular Starter",
   "repository": {
-    "url": "git@github.com:UltimateAngular/angular-fundamentals-seed.git",
+    "url": "git@github.com:codingsastra/angular-starter.git",
     "type": "git"
   },
   "license": "MIT",
-  "author": "Ultimate Angular",
+  "author": "Coding Sastra",
   "dependencies": {
     "@angular/common": "4.0.0-beta.1",
     "@angular/compiler": "4.0.0-beta.1",
